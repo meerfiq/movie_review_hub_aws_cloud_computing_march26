@@ -40,8 +40,8 @@ A fully functional movie review web application deployed on AWS cloud infrastruc
 | VPC | Network isolation |
 | IAM | Security permissions |
 
-## Screenshots
-[Add screenshots of your working application]
+## Reference
+https://youtu.be/gKsByHd794M
 
 ## Author
 CC Group Project
